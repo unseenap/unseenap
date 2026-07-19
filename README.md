@@ -17,9 +17,13 @@ const abhishek = {
   location: "Greater Noida, India",
   education: "B.Tech CSE @ Gautam Buddha University (2023–2027)",
   roles: ["Full-Stack Developer", "Python Developer", "AI/ML Engineer"],
-  building: ["real-time platforms", "role-based systems", "intelligent products"],
+  building: [
+    "real-time platforms",
+    "role-based systems",
+    "intelligent products",
+  ],
   learning: ["Machine Learning", "NLP", "data-driven engineering"],
-  principle: "Build software that solves a real human problem."
+  principle: "Build software that solves a real human problem.",
 };
 ```
 
@@ -29,8 +33,8 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 <div align="center">
 
-| Core | Frontend | Backend & Real-time | Data | Cloud & Tools |
-|:---:|:---:|:---:|:---:|:---:|
+|                                       Core                                       |                                       Frontend                                        |                         Backend & Real-time                          |                               Data                               |                                             Cloud & Tools                                              |
+| :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 | ![Python](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&theme=dark) | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark) | ![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark) | ![Data](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark) | ![Tools](https://skillicons.dev/icons?i=aws,git,github,postman,figma,vscode,vercel,netlify&theme=dark) |
 
 </div>
@@ -51,7 +55,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 - 20+ REST endpoints, crisis-keyword detection, ratings, and notifications
 - Property-based tests for auth, chat ordering, and emergency-state transitions
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-14B8A6?style=flat-square&logo=netlify&logoColor=white)](https://bodhimirta.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-14B8A6?style=flat-square&logo=netlify&logoColor=white)](https://bodhimitra.netlify.app)
 
 </td>
 <td width="50%" valign="top">
