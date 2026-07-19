@@ -93,8 +93,8 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=unseenap&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6&ring_color=22d3ee" alt="Abhishek's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unseenap&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unseenap&theme=github_dark" alt="Abhishek's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unseenap&theme=github_dark" alt="Most used languages" />
 
 <img width="94%" src="https://streak-stats.demolab.com?user=unseenap&theme=transparent&hide_border=true&background=020617&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
 
@@ -115,8 +115,11 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/unseenap/unseenap/output/github-snake-dark.svg#gh-dark-mode-only)
-![Contribution snake](https://raw.githubusercontent.com/unseenap/unseenap/output/github-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unseenap/unseenap/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unseenap/unseenap/gh-pages/github-snake.svg" />
+  <img alt="Abhishek's contribution snake" src="https://raw.githubusercontent.com/unseenap/unseenap/gh-pages/github-snake.svg" />
+</picture>
 
 </div>
 
