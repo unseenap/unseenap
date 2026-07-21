@@ -128,6 +128,8 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 <img width="46%" src="./assets/github-overview.svg" alt="Abhishek's GitHub overview" />
 <img width="46%" src="./assets/language-focus.svg" alt="Abhishek's language focus" />
 
+<img width="94%" src="./assets/github-streak.svg" alt="Abhishek's GitHub contribution streak" />
+
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=unseenap&bg_color=F4F4F4&color=2D2337&line=B39DE2&point=EDB2CE&area=true&area_color=B2DCE2&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek's GitHub contribution activity graph" />
 
 </div>
