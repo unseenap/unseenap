@@ -125,10 +125,8 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unseenap&theme=transparent" alt="Abhishek's GitHub stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unseenap&theme=transparent" alt="Most used languages" />
-
-<img width="94%" src="https://streak-stats.demolab.com?user=unseenap&hide_border=true&background=F4F4F4&ring=B39DE2&fire=EDB2CE&currStreakLabel=7B5DB3&sideLabels=4A3E57&dates=746A7D&currStreakNum=2D2337&sideNums=2D2337" alt="GitHub contribution streak" />
+<img width="46%" src="./assets/github-overview.svg" alt="Abhishek's GitHub overview" />
+<img width="46%" src="./assets/language-focus.svg" alt="Abhishek's language focus" />
 
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=unseenap&bg_color=F4F4F4&color=2D2337&line=B39DE2&point=EDB2CE&area=true&area_color=B2DCE2&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek's GitHub contribution activity graph" />
 
