@@ -73,6 +73,36 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🚕 [DispatchHub](https://github.com/unseenap/ride_dispatch-1)
+
+**Full-stack ride-dispatch and trip-operations platform** with separate rider, driver, and administrator experiences.
+
+`Angular 20` `Spring Boot` `Java 21` `PostgreSQL` `Docker`
+
+- Trip lifecycle management with driver matching and fare estimation
+- JWT-secured role-based workflows, analytics, and driver operations
+- Docker Compose environment with Angular, Spring Boot, and PostgreSQL
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [CredX](https://github.com/unseenap/CredX-SmartJobMatchingDash-master)
+
+**Explainable job and internship matching platform** that ranks opportunities using skills, GPA, and work-authorization signals.
+
+`Next.js 16` `React 19` `TypeScript` `MongoDB` `Groq AI`
+
+- Transparent 0–100 matching score with visible reasoning
+- Resume intelligence for PDF, DOCX, and image uploads
+- Student application tracker and recruiter management workspace
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-E4512F?style=flat-square&logo=vercel&logoColor=white)](https://cred-x-smart-job-matching-dash.vercel.app/)
+
+</td>
+</tr>
+<tr>
 <td colspan="2" valign="top">
 
 ### 🧬 ForkIT · FlavorBoost
@@ -97,6 +127,8 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unseenap&theme=github_dark" alt="Most used languages" />
 
 <img width="94%" src="https://streak-stats.demolab.com?user=unseenap&theme=transparent&hide_border=true&background=020617&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=unseenap&bg_color=020617&color=cbd5e1&line=22d3ee&point=f59e0b&area=true&area_color=0f766e&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek's GitHub contribution activity graph" />
 
 </div>
 
