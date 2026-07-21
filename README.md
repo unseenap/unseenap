@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:22d3ee&height=220&section=header&text=Abhishek%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=57&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,48:fef9c3,100:facc15&height=220&section=header&text=Abhishek%20Prajapati&fontSize=48&fontColor=111827&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=57&descColor=374151&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&lines=Building+real-time+products+with+purpose.;Turning+complex+problems+into+clean+interfaces.;Exploring+NLP%2C+ML%2C+and+intelligent+systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=EAB308&center=true&vCenter=true&repeat=true&width=760&lines=Building+real-time+products+with+purpose.;Turning+complex+problems+into+clean+interfaces.;Exploring+NLP%2C+ML%2C+and+intelligent+systems.)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-unseenap-181717?style=for-the-badge&logo=github)](https://github.com/unseenap)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-prajapati-9b049728a/)
-[![Email](https://img.shields.io/badge/Email-Let's_connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhi.prajapati2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-unseenap-FACC15?style=for-the-badge&logo=github&logoColor=111827&labelColor=FFFFFF)](https://github.com/unseenap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Prajapati-FACC15?style=for-the-badge&logo=linkedin&logoColor=111827&labelColor=FFFFFF)](https://www.linkedin.com/in/abhishek-prajapati-9b049728a/)
+[![Email](https://img.shields.io/badge/Email-Let's_connect-FACC15?style=for-the-badge&logo=gmail&logoColor=111827&labelColor=FFFFFF)](mailto:abhi.prajapati2005@gmail.com)
 
 </div>
 
@@ -35,7 +35,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 |                                       Core                                       |                                       Frontend                                        |                         Backend & Real-time                          |                               Data                               |                                             Cloud & Tools                                              |
 | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-| ![Python](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&theme=dark) | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark) | ![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark) | ![Data](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark) | ![Tools](https://skillicons.dev/icons?i=aws,git,github,postman,figma,vscode,vercel,netlify&theme=dark) |
+| ![Python](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&theme=light) | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=light) | ![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=light) | ![Data](https://skillicons.dev/icons?i=mongodb,mysql&theme=light) | ![Tools](https://skillicons.dev/icons?i=aws,git,github,postman,figma,vscode,vercel,netlify&theme=light) |
 
 </div>
 
@@ -85,6 +85,8 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 - JWT-secured role-based workflows, analytics, and driver operations
 - Docker Compose environment with Angular, Spring Boot, and PostgreSQL
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=render&logoColor=111827)](https://dispatch-ride.onrender.com/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -123,12 +125,12 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unseenap&theme=github_dark" alt="Abhishek's GitHub stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unseenap&theme=github_dark" alt="Most used languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unseenap&theme=github" alt="Abhishek's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unseenap&theme=github" alt="Most used languages" />
 
-<img width="94%" src="https://streak-stats.demolab.com?user=unseenap&theme=transparent&hide_border=true&background=020617&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
+<img width="94%" src="https://streak-stats.demolab.com?user=unseenap&hide_border=true&background=FFFFFF&ring=EAB308&fire=F59E0B&currStreakLabel=CA8A04&sideLabels=374151&dates=6B7280&currStreakNum=111827&sideNums=111827" alt="GitHub contribution streak" />
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=unseenap&bg_color=020617&color=cbd5e1&line=22d3ee&point=f59e0b&area=true&area_color=0f766e&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek's GitHub contribution activity graph" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=unseenap&bg_color=ffffff&color=374151&line=eab308&point=f59e0b&area=true&area_color=fef08a&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek's GitHub contribution activity graph" />
 
 </div>
 
@@ -136,10 +138,10 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 <div align="center">
 
-![AI Innovation Hackathon](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-AI_Innovation_Hackathon_2026-F59E0B?style=for-the-badge)
-![India Innovates](https://img.shields.io/badge/%F0%9F%9A%80_Finalist-India_Innovates_2026-8B5CF6?style=for-the-badge)
+![AI Innovation Hackathon](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-AI_Innovation_Hackathon_2026-FACC15?style=for-the-badge&labelColor=FFFFFF&color=FACC15)
+![India Innovates](https://img.shields.io/badge/%F0%9F%9A%80_Finalist-India_Innovates_2026-EAB308?style=for-the-badge&labelColor=FFFFFF)
 
-[![Web Development Certificate](https://img.shields.io/badge/Certificate-Web_Development-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://ude.my/UC-9e4a3cde-a9b9-4d28-8f74-45694ef5fceb)
+[![Web Development Certificate](https://img.shields.io/badge/Certificate-Web_Development-FACC15?style=for-the-badge&logo=udemy&logoColor=111827&labelColor=FFFFFF)](https://ude.my/UC-9e4a3cde-a9b9-4d28-8f74-45694ef5fceb)
 
 </div>
 
@@ -161,10 +163,10 @@ I’m open to collaborating on **full-stack products, real-time systems, develop
 
 <div align="center">
 
-[![Email me](https://img.shields.io/badge/Start_a_conversation-abhi.prajapati2005%40gmail.com-22D3EE?style=for-the-badge&logo=minutemailer&logoColor=020617)](mailto:abhi.prajapati2005@gmail.com)
+[![Email me](https://img.shields.io/badge/Start_a_conversation-abhi.prajapati2005%40gmail.com-FACC15?style=for-the-badge&logo=minutemailer&logoColor=111827&labelColor=FFFFFF)](mailto:abhi.prajapati2005@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=unseenap&label=PROFILE+VIEWS&color=0f766e&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=unseenap&label=PROFILE+VIEWS&color=FACC15&style=flat-square)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,55:0f766e,100:020617&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:facc15,52:fef9c3,100:ffffff&height=120&section=footer)
 
 </div>
