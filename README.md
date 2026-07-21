@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2A9D8F,34:E9C46A,67:F4A261,100:E76F51&height=220&section=header&text=Abhishek%20Prajapati&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=57&descColor=FFFFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B39DE2,34:B2DCE2,67:EDB2CE,100:F1B8D6&height=220&section=header&text=Abhishek%20Prajapati&fontSize=48&fontColor=2D2337&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=57&descColor=4A3E57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E76F51&center=true&vCenter=true&repeat=true&width=760&lines=Building+real-time+products+with+purpose.;Turning+complex+problems+into+clean+interfaces.;Exploring+NLP%2C+ML%2C+and+intelligent+systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9A6BC0&center=true&vCenter=true&repeat=true&width=760&lines=Building+real-time+products+with+purpose.;Turning+complex+problems+into+clean+interfaces.;Exploring+NLP%2C+ML%2C+and+intelligent+systems.)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-unseenap-2A9D8F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=264653)](https://github.com/unseenap)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Prajapati-E9C46A?style=for-the-badge&logo=linkedin&logoColor=264653&labelColor=264653)](https://www.linkedin.com/in/abhishek-prajapati-9b049728a/)
-[![Email](https://img.shields.io/badge/Email-Let's_connect-E76F51?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=264653)](mailto:abhi.prajapati2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-unseenap-B39DE2?style=for-the-badge&logo=github&logoColor=2D2337&labelColor=4A3E57)](https://github.com/unseenap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Prajapati-B2DCE2?style=for-the-badge&logo=linkedin&logoColor=2D2337&labelColor=4A3E57)](https://www.linkedin.com/in/abhishek-prajapati-9b049728a/)
+[![Email](https://img.shields.io/badge/Email-Let's_connect-EDB2CE?style=for-the-badge&logo=gmail&logoColor=2D2337&labelColor=4A3E57)](mailto:abhi.prajapati2005@gmail.com)
 
 </div>
 
@@ -55,7 +55,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 - 20+ REST endpoints, crisis-keyword detection, ratings, and notifications
 - Property-based tests for auth, chat ordering, and emergency-state transitions
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2A9D8F?style=flat-square&logo=netlify&logoColor=white)](https://bodhimitra.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://bodhimitra.netlify.app)
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +85,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 - JWT-secured role-based workflows, analytics, and driver operations
 - Docker Compose environment with Angular, Spring Boot, and PostgreSQL
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-E9C46A?style=flat-square&logo=render&logoColor=264653)](https://dispatch-ride.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-B39DE2?style=flat-square&logo=render&logoColor=2D2337)](https://dispatch-ride.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +100,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 - Resume intelligence for PDF, DOCX, and image uploads
 - Student application tracker and recruiter management workspace
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-E76F51?style=flat-square&logo=vercel&logoColor=white)](https://cred-x-smart-job-matching-dash.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-EDB2CE?style=flat-square&logo=vercel&logoColor=2D2337)](https://cred-x-smart-job-matching-dash.vercel.app/)
 
 </td>
 </tr>
@@ -128,9 +128,9 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unseenap&theme=transparent" alt="Abhishek's GitHub stats" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unseenap&theme=transparent" alt="Most used languages" />
 
-<img width="94%" src="https://streak-stats.demolab.com?user=unseenap&hide_border=true&background=FAF9F6&ring=2A9D8F&fire=E76F51&currStreakLabel=2A9D8F&sideLabels=264653&dates=6B7280&currStreakNum=264653&sideNums=264653" alt="GitHub contribution streak" />
+<img width="94%" src="https://streak-stats.demolab.com?user=unseenap&hide_border=true&background=F4F4F4&ring=B39DE2&fire=EDB2CE&currStreakLabel=7B5DB3&sideLabels=4A3E57&dates=746A7D&currStreakNum=2D2337&sideNums=2D2337" alt="GitHub contribution streak" />
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=unseenap&bg_color=FAF9F6&color=264653&line=2A9D8F&point=E76F51&area=true&area_color=E9C46A&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek's GitHub contribution activity graph" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=unseenap&bg_color=F4F4F4&color=2D2337&line=B39DE2&point=EDB2CE&area=true&area_color=B2DCE2&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek's GitHub contribution activity graph" />
 
 </div>
 
@@ -138,10 +138,10 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 <div align="center">
 
-![AI Innovation Hackathon](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-AI_Innovation_Hackathon_2026-E9C46A?style=for-the-badge&labelColor=264653)
-![India Innovates](https://img.shields.io/badge/%F0%9F%9A%80_Finalist-India_Innovates_2026-F4A261?style=for-the-badge&labelColor=264653)
+![AI Innovation Hackathon](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-AI_Innovation_Hackathon_2026-B39DE2?style=for-the-badge&labelColor=4A3E57)
+![India Innovates](https://img.shields.io/badge/%F0%9F%9A%80_Finalist-India_Innovates_2026-B2DCE2?style=for-the-badge&labelColor=4A3E57)
 
-[![Web Development Certificate](https://img.shields.io/badge/Certificate-Web_Development-2A9D8F?style=for-the-badge&logo=udemy&logoColor=FFFFFF&labelColor=264653)](https://ude.my/UC-9e4a3cde-a9b9-4d28-8f74-45694ef5fceb)
+[![Web Development Certificate](https://img.shields.io/badge/Certificate-Web_Development-EDB2CE?style=for-the-badge&logo=udemy&logoColor=2D2337&labelColor=4A3E57)](https://ude.my/UC-9e4a3cde-a9b9-4d28-8f74-45694ef5fceb)
 
 </div>
 
@@ -163,10 +163,10 @@ I’m open to collaborating on **full-stack products, real-time systems, develop
 
 <div align="center">
 
-[![Email me](https://img.shields.io/badge/Start_a_conversation-abhi.prajapati2005%40gmail.com-E76F51?style=for-the-badge&logo=minutemailer&logoColor=FFFFFF&labelColor=264653)](mailto:abhi.prajapati2005@gmail.com)
+[![Email me](https://img.shields.io/badge/Start_a_conversation-abhi.prajapati2005%40gmail.com-F1B8D6?style=for-the-badge&logo=minutemailer&logoColor=2D2337&labelColor=4A3E57)](mailto:abhi.prajapati2005@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=unseenap&label=PROFILE+VIEWS&color=2A9D8F&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=unseenap&label=PROFILE+VIEWS&color=B39DE2&style=flat-square)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E76F51,34:F4A261,67:E9C46A,100:2A9D8F&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F1B8D6,34:EDB2CE,67:B2DCE2,100:B39DE2&height=120&section=footer)
 
 </div>
