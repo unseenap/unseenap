@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" role="img" aria-labelledby="title desc">
   <title id="title">Abhishek's live GitHub overview</title>
-  <desc id="desc">13 public repositories, 28 stars, 1 followers. Automatically updated 2026-07-21.</desc>
+  <desc id="desc">13 public repositories, 28 stars, 1 followers. Automatically updated 2026-07-22.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F4F4F4"/><stop offset=".55" stop-color="#B2DCE2" stop-opacity=".62"/><stop offset="1" stop-color="#EDB2CE" stop-opacity=".72"/></linearGradient>
     <filter id="shadow" x="-10%" y="-15%" width="120%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#4A3E57" flood-opacity=".16"/></filter>
@@ -8,7 +8,7 @@
   <rect x="8" y="8" width="404" height="154" rx="20" fill="url(#bg)" stroke="#B39DE2" stroke-width="1.5" filter="url(#shadow)"/>
   <circle cx="44" cy="43" r="18" fill="#B39DE2"/><path d="M36 43h16M44 35v16" stroke="#2D2337" stroke-width="2.5" stroke-linecap="round"/>
   <text x="72" y="39" fill="#2D2337" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">GitHub overview</text>
-  <text x="72" y="58" fill="#746A7D" font-family="Segoe UI,Arial,sans-serif" font-size="11">@unseenap · automatically updated 2026-07-21</text>
+  <text x="72" y="58" fill="#746A7D" font-family="Segoe UI,Arial,sans-serif" font-size="11">@unseenap · automatically updated 2026-07-22</text>
   <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
     <text x="65" y="107" fill="#2D2337" font-size="25" font-weight="700">13</text><text x="65" y="126" fill="#4A3E57" font-size="11">REPOSITORIES</text>
     <text x="163" y="107" fill="#2D2337" font-size="25" font-weight="700">28</text><text x="163" y="126" fill="#4A3E57" font-size="11">STARS</text>
