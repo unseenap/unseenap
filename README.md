@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B39DE2,34:B2DCE2,67:EDB2CE,100:F1B8D6&height=220&section=header&text=Abhishek%20Prajapati&fontSize=48&fontColor=2D2337&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=57&descColor=4A3E57&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B39DE2,34:B2DCE2,67:EDB2CE,100:F1B8D6&height=220&section=header&text=Abhishek%20Prajapati&fontSize=48&fontColor=2D2337&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Automation&descAlignY=57&descColor=4A3E57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9A6BC0&center=true&vCenter=true&repeat=true&width=760&lines=Building+real-time+products+with+purpose.;Turning+complex+problems+into+clean+interfaces.;Exploring+NLP%2C+ML%2C+and+intelligent+systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9A6BC0&center=true&vCenter=true&repeat=true&width=760&lines=Building+real-time+products+with+purpose.;Turning+complex+problems+into+clean+interfaces.;Automating+repetitive+workflows+with+reliable+software.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-unseenap-B39DE2?style=for-the-badge&logo=github&logoColor=2D2337&labelColor=4A3E57)](https://github.com/unseenap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Prajapati-B2DCE2?style=for-the-badge&logo=linkedin&logoColor=2D2337&labelColor=4A3E57)](https://www.linkedin.com/in/abhishek-prajapati-9b049728a/)
@@ -16,18 +16,18 @@
 const abhishek = {
   location: "Greater Noida, India",
   education: "B.Tech CSE @ Gautam Buddha University (2023–2027)",
-  roles: ["Full-Stack Developer", "Python Developer", "AI/ML Engineer"],
+  roles: ["Full-Stack Developer", "Python Developer", "Automation"],
   building: [
     "real-time platforms",
     "role-based systems",
-    "intelligent products",
+    "workflow automation",
   ],
-  learning: ["Machine Learning", "NLP", "data-driven engineering"],
+  learning: ["automation", "backend engineering", "reliable systems"],
   principle: "Build software that solves a real human problem.",
 };
 ```
 
-I’m a Computer Science undergraduate who enjoys owning the full product journey—from database architecture and secure REST APIs to responsive interfaces and real-time experiences. My current focus is bringing solid software-engineering practices into **AI/ML and NLP systems**.
+I’m a Computer Science undergraduate who enjoys owning the full product journey—from database architecture and secure REST APIs to responsive interfaces and real-time experiences. My current focus is building **reliable automation, backend systems, and streamlined workflows**.
 
 ## Tech constellation
 
@@ -159,7 +159,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 ## Let’s build something meaningful
 
-I’m open to collaborating on **full-stack products, real-time systems, developer tools, and applied AI/ML projects**. If an idea combines thoughtful engineering with genuine human impact, I’d love to hear about it.
+I’m open to collaborating on **full-stack products, real-time systems, developer tools, and automation projects**. If an idea combines thoughtful engineering with genuine human impact, I’d love to hear about it.
 
 <div align="center">
 
