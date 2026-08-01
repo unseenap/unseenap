@@ -60,7 +60,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Auto-Examination](https://github.com/abhi-create-design/Auto-Examination)
+### 🎓 [Auto-Examination](https://github.com/unseenap/Auto-Examination)
 
 **Examination operations platform** for scheduling, seat allocation, invigilation, attendance, and reporting.
 
