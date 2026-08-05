@@ -27,7 +27,7 @@ const abhishek = {
 };
 ```
 
-I’m a Computer Science undergraduate who enjoys owning the full product journey—from database architecture and secure REST APIs to responsive interfaces and real-time experiences. My current focus is building **reliable automation, backend systems, and streamlined workflows**.
+I’m a Computer Science undergraduate who enjoys owning the full product journey-from database architecture and secure REST APIs to responsive interfaces and real-time experiences. My current focus is building **reliable automation, backend systems, and streamlined workflows**.
 
 ## Tech constellation
 
