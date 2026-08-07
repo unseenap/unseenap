@@ -10,7 +10,7 @@
 
 </div>
 
-## `> whoami` [Old suspended account: abhi-design-creates]
+## `> whoami`
 
 ```typescript
 const abhishek = {
