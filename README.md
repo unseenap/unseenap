@@ -117,7 +117,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 - Maps ingredients to flavor molecules, receptor activation, and dietary-safety signals
 - Runs parallel API queries and deduplicates molecular data before ranking recipes
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)]([https://bodhimitra.netlify.app](https://flavorboost.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://flavorboost.vercel.app)
 </td>
 </tr>
 </table>
