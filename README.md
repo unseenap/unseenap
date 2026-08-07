@@ -107,7 +107,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 <tr>
 <td colspan="2" valign="top">
 
-### 🧬 ForkIT · FlavorBoost
+### 🧬 [ForkIT · FlavorBoost](https://github.com/unseenap/FlavorBoost)
 
 **Molecular recipe-intelligence engine** for users experiencing taste changes related to chemotherapy, post-COVID conditions, or hypertension.
 
