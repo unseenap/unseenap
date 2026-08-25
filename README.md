@@ -70,6 +70,8 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 - Admin, Exam Cell, and Faculty access with bulk CSV upload
 - 12+ table relational model with transaction-safe operations and Excel export
 
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://gbuexam.gt.tc)
+
 </td>
 </tr>
 <tr>
