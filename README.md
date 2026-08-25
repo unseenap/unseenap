@@ -45,7 +45,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [BodhiMitra](https://github.com/unseenap/BodhiMitra)
+### 🧠 [BodhiMitra](https://github.com/unseenap/Auto-Exam-Main)
 
 **Real-time mental-health support platform** connecting students and psychologists through emergency matching and live sessions.
 
