@@ -45,7 +45,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [BodhiMitra](https://github.com/unseenap/Auto-Exam-Main)
+### 🧠 [BodhiMitra](https://github.com/unseenap/Bodhi-Mitra)
 
 **Real-time mental-health support platform** connecting students and psychologists through emergency matching and live sessions.
 
@@ -55,7 +55,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 - 20+ REST endpoints, crisis-keyword detection, ratings, and notifications
 - Property-based tests for auth, chat ordering, and emergency-state transitions
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://bodhimitra.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://bodhimitra.gbu.ac.in)
 
 </td>
 <td width="50%" valign="top">
