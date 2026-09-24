@@ -10,7 +10,7 @@
 
 </div>
 
-## `> whoami` [Old suspended account: abhi-design-creates]
+## `> whoami`
 
 ```typescript
 const abhishek = {
@@ -27,6 +27,7 @@ const abhishek = {
 };
 ```
 
+<<<<<<< HEAD
 I’m a final-year Computer Science student and full-stack developer who enjoys turning manual workflows into dependable web applications. I build and deploy role-based platforms with hands-on work across authentication, databases, real-time features, testing, automation, SEO, and production delivery.
 
 ## Experience
@@ -41,6 +42,9 @@ I’m a final-year Computer Science student and full-stack developer who enjoys 
 
 [![GitHub](https://img.shields.io/badge/Source-CawnporeEngineeringServices-B39DE2?style=flat-square&logo=github&logoColor=2D2337)](https://github.com/unseenap/CawnporeEngineeringServices)
 [![Live Website](https://img.shields.io/badge/Live-ceservices.co.in-B2DCE2?style=flat-square&logo=googlechrome&logoColor=2D2337)](https://www.ceservices.co.in/)
+=======
+I’m a Computer Science undergraduate who enjoys owning the full product journey-from database architecture and secure REST APIs to responsive interfaces and real-time experiences. My current focus is building **reliable automation, backend systems, and streamlined workflows**.
+>>>>>>> 8e2a7635dfaf5ad7a67d63540ad859cab6de1452
 
 ## Tech constellation
 
@@ -58,7 +62,7 @@ I’m a final-year Computer Science student and full-stack developer who enjoys 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [BodhiMitra](https://github.com/unseenap/BodhiMitra)
+### 🧠 [BodhiMitra](https://github.com/unseenap/Bodhi-Mitra)
 
 **Real-time mental-health support platform** connecting students and psychologists through emergency matching and live sessions.
 
@@ -68,7 +72,7 @@ I’m a final-year Computer Science student and full-stack developer who enjoys 
 - 20+ REST endpoints, crisis-keyword detection, ratings, and notifications
 - Property-based tests for auth, chat ordering, and emergency-state transitions
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://bodhimitra.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://bodhimitra.gbu.ac.in)
 
 </td>
 <td width="50%" valign="top">
@@ -82,6 +86,8 @@ I’m a final-year Computer Science student and full-stack developer who enjoys 
 - Role-based workflows for Admin, Exam Cell, and Faculty users
 - Multi-branch seating allocation with manual adjustments and validated CSV imports
 - Normalized MySQL schema with transaction-safe operations and report exports
+
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://gbuexam.gt.tc)
 
 </td>
 </tr>
@@ -118,7 +124,11 @@ I’m a final-year Computer Science student and full-stack developer who enjoys 
 <tr>
 <td colspan="2" valign="top">
 
+<<<<<<< HEAD
 ### 🗺️ [Intelligent Land Record Digitization](https://github.com/unseenap/Land_dizitization)
+=======
+### 🧬 [ForkIT · FlavorBoost](https://github.com/unseenap/FlavorBoost)
+>>>>>>> 8e2a7635dfaf5ad7a67d63540ad859cab6de1452
 
 **Role-scoped document workflow** that keeps source files, OCR evidence, corrections, approvals, and audit history connected.
 
@@ -128,6 +138,7 @@ I’m a final-year Computer Science student and full-stack developer who enjoys 
 - Immutable approval snapshots, scoped search, and clear human-verification boundaries
 - Architecture prepared for separately deployed OCR and government integrations
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-B2DCE2?style=flat-square&logo=netlify&logoColor=2D2337)](https://flavorboost.vercel.app)
 </td>
 </tr>
 </table>
