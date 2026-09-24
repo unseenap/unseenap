@@ -1,0 +1,118 @@
+{
+  "input": "C:\\Users\\abhi1\\Desktop\\Abhishek_Prajapati_Resume_Dev.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 41,
+  "direct_paragraph_formatting_paragraphs": 37,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "ABHISHEK PRAJAPATI",
+      "style": "Normal"
+    },
+    {
+      "para_index": 2,
+      "text": "Full-Stack Developer | Database & Web Application Development  ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 9,
+      "text": "Programming Languages: JavaScript, TypeScript, Python, Java, C/C++, PHP",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 11,
+      "text": "Developer Tools: Git, GitHub, Postman, Figma, Visual Studio Code",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 13,
+      "text": "Gautam Buddha University\tGreater Noida, India",
+      "style": "Normal"
+    },
+    {
+      "para_index": 23,
+      "text": "GitHub: https://github.com/unseenap/Auto-Examination",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 29,
+      "text": "GitHub: https://github.com/unseenap/Bodhi-Mitra",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 34,
+      "text": "GitHub: https://github.com/unseenap/ride_dispatch-1",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 38,
+      "text": "GitHub: https://github.com/unseenap/CredX-SmartJobMatchingDash-master",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 43,
+      "text": "Certificate URL: https://ude.my/UC-9e4a3cde-a9b9-4d28-8f74-45694ef5fceb",
+      "style": "List Paragraph"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "ABHISHEK PRAJAPATI",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": "Full-Stack Developer | Database & Web Application Development  ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "Greater Noida, India  |  abhi.prajapati2005@gmail.com  |  +91-8887878170  |  LinkedIn  |  GitHub",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "Computer Science undergraduate and full-stack developer with hands-on experience designing relational databases, writing",
+        "style": "Normal"
+      },
+      {
+        "para_index": 7,
+        "text": "Databases & SQL: MySQL, MongoDB, Relational Schema Design, SQL Query Writing & Optimization, Transaction-Safe Operations",
+        "style": "List Paragraph"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "ABHISHEK PRAJAPATI",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "Full-Stack Developer | Database & Web Application Development  ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "Greater Noida, ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "India  |",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "  ",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

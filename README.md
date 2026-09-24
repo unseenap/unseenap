@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B39DE2,34:B2DCE2,67:EDB2CE,100:F1B8D6&height=220&section=header&text=Abhishek%20Prajapati&fontSize=48&fontColor=2D2337&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Automation&descAlignY=57&descColor=4A3E57&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B39DE2,34:B2DCE2,67:EDB2CE,100:F1B8D6&height=220&section=header&text=Abhishek%20Prajapati&fontSize=48&fontColor=2D2337&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Development%20%E2%80%A2%20Workflow%20Automation&descAlignY=57&descColor=4A3E57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9A6BC0&center=true&vCenter=true&repeat=true&width=760&lines=Building+real-time+products+with+purpose.;Turning+complex+problems+into+clean+interfaces.;Automating+repetitive+workflows+with+reliable+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9A6BC0&center=true&vCenter=true&repeat=true&width=800&lines=Turning+manual+workflows+into+dependable+products.;Building+secure%2C+role-based+full-stack+platforms.;Automating+repetitive+work+with+reliable+software.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-unseenap-B39DE2?style=for-the-badge&logo=github&logoColor=2D2337&labelColor=4A3E57)](https://github.com/unseenap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Prajapati-B2DCE2?style=for-the-badge&logo=linkedin&logoColor=2D2337&labelColor=4A3E57)](https://www.linkedin.com/in/abhishek-prajapati-9b049728a/)
@@ -16,26 +16,39 @@
 const abhishek = {
   location: "Greater Noida, India",
   education: "B.Tech CSE @ Gautam Buddha University (2023–2027)",
-  roles: ["Full-Stack Developer", "Python Developer", "Automation"],
+  roles: ["Full-Stack Developer", "Backend Developer", "Automation Builder"],
   building: [
-    "real-time platforms",
+    "dependable web applications",
     "role-based systems",
     "workflow automation",
   ],
-  learning: ["automation", "backend engineering", "reliable systems"],
+  focus: ["backend engineering", "automation", "production systems"],
   principle: "Build software that solves a real human problem.",
 };
 ```
 
-I’m a Computer Science undergraduate who enjoys owning the full product journey—from database architecture and secure REST APIs to responsive interfaces and real-time experiences. My current focus is building **reliable automation, backend systems, and streamlined workflows**.
+I’m a final-year Computer Science student and full-stack developer who enjoys turning manual workflows into dependable web applications. I build and deploy role-based platforms with hands-on work across authentication, databases, real-time features, testing, automation, SEO, and production delivery.
+
+## Experience
+
+### Web Developer Intern · [Cawnpore Engineering Services](https://www.ceservices.co.in/)
+
+`React.js` `JavaScript` `Responsive Design` `SEO` · **Jun–Jul 2026**
+
+- Developed and launched the company website for HVAC design, installation, commissioning, maintenance, and system-upgrade services across India.
+- Built responsive pages for services, industries, completed projects, and the company’s engineering approach.
+- Managed on-page SEO, deployment updates, and ongoing website operations during the two-month paid internship.
+
+[![GitHub](https://img.shields.io/badge/Source-CawnporeEngineeringServices-B39DE2?style=flat-square&logo=github&logoColor=2D2337)](https://github.com/unseenap/CawnporeEngineeringServices)
+[![Live Website](https://img.shields.io/badge/Live-ceservices.co.in-B2DCE2?style=flat-square&logo=googlechrome&logoColor=2D2337)](https://www.ceservices.co.in/)
 
 ## Tech constellation
 
 <div align="center">
 
-|                                       Core                                       |                                       Frontend                                        |                         Backend & Real-time                          |                               Data                               |                                             Cloud & Tools                                              |
-| :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-| ![Python](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&theme=light) | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=light) | ![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=light) | ![Data](https://skillicons.dev/icons?i=mongodb,mysql&theme=light) | ![Tools](https://skillicons.dev/icons?i=aws,git,github,postman,figma,vscode,vercel,netlify&theme=light) |
+|                                       Core                                       |                                             Frontend                                             |                                  Backend                                   |                                  Data                                   |                                                   Cloud & Tools                                                    |
+| :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| ![Python](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&theme=light) | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=light) | ![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,php&theme=light) | ![Data](https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=light) | ![Tools](https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma,vscode,vercel,netlify&theme=light) |
 
 </div>
 
@@ -60,62 +73,60 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Auto-Examination](https://github.com/unseenap/Auto-Examination)
+### 🎓 [Auto-Examination](https://github.com/unseenap/Auto-Exam-Main)
 
 **Examination operations platform** for scheduling, seat allocation, invigilation, attendance, and reporting.
 
 `PHP` `MySQL` `JavaScript` `XAMPP`
 
-- Visual, multi-branch interleaved seating with manual adjustments
-- Admin, Exam Cell, and Faculty access with bulk CSV upload
-- 12+ table relational model with transaction-safe operations and Excel export
+- Role-based workflows for Admin, Exam Cell, and Faculty users
+- Multi-branch seating allocation with manual adjustments and validated CSV imports
+- Normalized MySQL schema with transaction-safe operations and report exports
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🚕 [DispatchHub](https://github.com/unseenap/ride_dispatch-1)
-
-**Full-stack ride-dispatch and trip-operations platform** with separate rider, driver, and administrator experiences.
-
-`Angular 20` `Spring Boot` `Java 21` `PostgreSQL` `Docker`
-
-- Trip lifecycle management with driver matching and fare estimation
-- JWT-secured role-based workflows, analytics, and driver operations
-- Docker Compose environment with Angular, Spring Boot, and PostgreSQL
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-B39DE2?style=flat-square&logo=render&logoColor=2D2337)](https://dispatch-ride.onrender.com/)
-
-</td>
 <td width="50%" valign="top">
 
 ### 🎯 [CredX](https://github.com/unseenap/CredX-SmartJobMatchingDash-master)
 
 **Explainable job and internship matching platform** that ranks opportunities using skills, GPA, and work-authorization signals.
 
-`Next.js 16` `React 19` `TypeScript` `MongoDB` `Groq AI`
+`Next.js 16` `TypeScript` `MongoDB` `Groq AI`
 
 - Transparent 0–100 matching score with visible reasoning
-- Resume intelligence for PDF, DOCX, and image uploads
-- Student application tracker and recruiter management workspace
+- Resume processing for PDF, DOCX, and image uploads
+- Student application tracking and recruiter-management workflows
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-EDB2CE?style=flat-square&logo=vercel&logoColor=2D2337)](https://cred-x-smart-job-matching-dash.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 [CarouselQueue](https://github.com/unseenap/CarouselQueue)
+
+**Instagram publishing automation pipeline** that converts queued content into scheduled four-slide carousel posts.
+
+`Python 3.12` `Instagram Graph API` `Cloudinary` `GitHub Actions`
+
+- Validates image inputs, assembles carousel media, uploads assets, and publishes through the Instagram API
+- Includes dry-run previews, automated tests, and alternating queue selection
+- Prevents duplicate posts and tracks local publishing state without storing repository credentials
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🧬 ForkIT · FlavorBoost
+### 🗺️ [Intelligent Land Record Digitization](https://github.com/unseenap/Land_dizitization)
 
-**Molecular recipe-intelligence engine** for users experiencing taste changes related to chemotherapy, post-COVID conditions, or hypertension.
+**Role-scoped document workflow** that keeps source files, OCR evidence, corrections, approvals, and audit history connected.
 
-`React` `Node.js` `Express` `Tailwind CSS` `FlavorDB` `Foodoscope RecipeDB`
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM`
 
-- Computes a condition-aware **Taste Restoration Score**
-- Maps ingredients to flavor molecules, receptor activation, and dietary-safety signals
-- Runs parallel API queries and deduplicates molecular data before ranking recipes
+- Validation and duplicate-review workflows with durable processing jobs
+- Immutable approval snapshots, scoped search, and clear human-verification boundaries
+- Architecture prepared for separately deployed OCR and government integrations
 
 </td>
 </tr>
@@ -159,7 +170,7 @@ I’m a Computer Science undergraduate who enjoys owning the full product journe
 
 ## Let’s build something meaningful
 
-I’m open to collaborating on **full-stack products, real-time systems, developer tools, and automation projects**. If an idea combines thoughtful engineering with genuine human impact, I’d love to hear about it.
+I’m open to collaborating on **full-stack products, backend systems, workflow automation, developer tools, and production web platforms**. If an idea combines thoughtful engineering with genuine human impact, I’d love to hear about it.
 
 <div align="center">
 
